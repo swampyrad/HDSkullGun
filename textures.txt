@@ -1,0 +1,19 @@
+//skullgun
+sprite SKGNA0, 24, 29{
+    offset 12, 29
+    patch SKGNA0, 0, 0
+}
+
+//skull flamer
+sprite SKGNB0, 32, 29{
+    offset 12, 29
+    patch SKGNA0, 0, 0
+    patch BAL1B0, 14, 2
+}
+
+//skull buster
+sprite SKGNC0, 32, 29{
+    offset 12, 29
+    patch SKGNA0, 0, 0
+    patch PLSSB0, 14, 3
+}
