@@ -11,6 +11,6 @@ To use the skullguns, they must be equiped from the inventory. You have to add t
 
 Loadout Codes:
 
-sgn - Skull Gun
-sgf - Skull Flamer
-sgb - Skull Buster
+- skg - Skull Gun
+- skf - Skull Flamer
+- skb - Skull Buster
